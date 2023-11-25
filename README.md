@@ -1,4 +1,4 @@
-# Finance-Basics-Time-Series 
+# Finance_Basics_Time_Series 
 
  Libraries : statistics / pandas / yfinance / matplotlib.pyplot
 
